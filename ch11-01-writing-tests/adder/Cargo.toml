@@ -1,5 +1,5 @@
 [package]
-name = "ch10-01-syntax"
+name = "adder"
 version = "0.1.0"
 authors = ["Michail Smolinskiy <nntndfrk@gmail.com>"]
 edition = "2018"
